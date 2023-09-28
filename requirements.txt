@@ -1,0 +1,4 @@
+python-dotenv~=1.0.0
+streamlit~=1.26.0
+azure-storage-blob~=12.18.1
+pydub
